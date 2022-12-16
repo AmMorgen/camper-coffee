@@ -1,0 +1,2 @@
+O camper café foi um projeto realizado no freecodecamp. O projeto é idealizado pelos mesmo e utilizado para ensinar conceitos pertencentes ao html e css. Seja utlização do html semantico até 
+a utilização de espaçamentos para produzir layouts
